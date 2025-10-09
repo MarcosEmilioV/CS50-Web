@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 .mid{
     
 }
@@ -7,7 +9,26 @@
 }
 
 .search-bars-options{
+    display: flex
     height: 35px;
     width: 154px;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 20px;
+    align-items: 
+}
+
+.logo{
+    font-family: 'Product Sans', sans-serif;
+                                                
+    font-size: 80px;
+}
+
+.container{
+    min-height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
