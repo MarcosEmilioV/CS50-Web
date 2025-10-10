@@ -5,12 +5,20 @@
 }
 
 .search-bars{
-
+    display: flex
+    height: 52.22px;
+    width: 687.99px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
 }
 
 .search-bars-options{
     display: flex
-    height: 35px;
+    height: 48px;
     width: 154px;
     padding: 10px;
     border: 2px solid black;
