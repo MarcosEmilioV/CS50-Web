@@ -9,10 +9,10 @@
 .search-bars{
     display: flex
     height: 52.22px;
-    width: 687.99px;
+    width: 685.99px;
     padding: 10px;
-    border: 2px solid black;
-    border-radius: 8px;
+    border: 1px solid #dadce0;;
+    border-radius: 26px;
     margin: 20px;
     align-items: center;
     justify-content: center;
